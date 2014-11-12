@@ -53,9 +53,9 @@ $log_table_name  = 'self_check_stats';
 
 //mysql connection info (ignore this if you're not using mysql logging)
 $dbhostname = "localhost:3306";
-$database = "selfcheck_db";
-$dbusername = "root";
-$dbpassword = "sacmysql";
+$database = "-----";
+$dbusername = "-----";
+$dbpassword = "-------";
 
 //====================== SIP2 Responses  ==============
 /*
