@@ -15,10 +15,10 @@
 */
 
 //========================== SIP2 =================================
-$sip_hostname = '203.158.192.130';
+$sip_hostname = '---;
 $sip_port = '8000'; 
-$sip_login= 'sip204'; 	//if your SIP2 server does not require a username and password leave these empty
-$sip_password = 'GQ70Ccuj';
+$sip_login= '----'; 	//if your SIP2 server does not require a username and password leave these empty
+$sip_password = '----';
 
 
 $lang = 'TH'; // Lang EN or TH
